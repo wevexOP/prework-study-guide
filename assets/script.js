@@ -22,3 +22,7 @@ var shapes = ["triangle", "square", "pentagon", "circle"]
 for (var x = 0; x < shapes.length; x++) {
   console.log(shapes[x]);
  }
+
+function helloworld() {
+  console.log("Hello, world, I am a function!")
+}
