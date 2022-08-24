@@ -1,4 +1,4 @@
-# <The Best Study Guide Ever>
+# The Best Study Guide Ever
 
 ## Description
 
